@@ -11,6 +11,6 @@ Standard: easy to use, high performance, powerful
 | data analysis | https://github.com/pandas-dev/pandas |
 | charts | https://github.com/matplotlib/matplotlib |
 | scientific computing | https://github.com/numpy/numpy |
-| crawling | https://github.com/scrapy/scrapy |
+| crawling & scraping | https://github.com/scrapy/scrapy |
 | web testing | https://github.com/microsoft/playwright |
 | excel | https://github.com/jmcnamara/XlsxWriter https://github.com/xlwings/xlwings |
